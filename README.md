@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>  
 
-<h3 align="center">A developer from Brazil working as a Data Analyst</h3>
+<h3 align="center">Software Engineer and Computer Science student.</h3>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -31,5 +31,12 @@
 [<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql%20-%230064a5.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>](https://www.postgresql.org/) 
  
  
-## 📈 Github Stats
+ ## 📈 Github Stats
+<div >
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipeguilherme&theme=default)
+  
+[![Felipe top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeguilherme&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
+
